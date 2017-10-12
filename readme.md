@@ -1,6 +1,6 @@
 ```
 go get github.com/Jeffail/gabs
-go get github.com/iven1990/json_filter
+go get github.com/ivenabc/json_filter
 ```
 
 ### Useage
